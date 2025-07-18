@@ -1,5 +1,11 @@
 # CircuitryLabs Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/198f1836-64b5-4b1b-8bd2-0fd51ee05842/deploy-status)](https://app.netlify.com/sites/vocal-crepe-b830e0/deploys)
+[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-8B5CF6?style=flat&logo=anthropic)](https://claude.ai)
+[![Phase](https://img.shields.io/badge/Phase--1-Building%20in%20Public-22C55E?style=flat)](https://github.com/circuitrylabs)
+[![Thermal](https://img.shields.io/badge/Thermal-Efficient-F59E0B?style=flat&logo=fire)](https://circuitrylabs.org)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](LICENSE)
+
 Landing page for [circuitrylabs.org](https://circuitrylabs.org) - Phase -1.
 
 ## Quick Start
