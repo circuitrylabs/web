@@ -34,6 +34,10 @@ public/
   manifest.json   # PWA metadata
 ```
 
+## Foundation
+
+Building on the [CIRIS Covenant](https://ciris.ai/) framework for ethical AI systems.
+
 ---
 
 *Building tools that respect both human and AI boundaries.*
