@@ -32,6 +32,19 @@ const CircuitryLabsLanding = () => {
             Building on the <a href="https://ciris.ai/" className="underline hover:text-black">CIRIS Covenant</a> framework.
           </p>
           
+          <div className="mb-8 p-4 border border-gray-300 rounded">
+            <p className="text-sm text-gray-600 mb-2">Now available:</p>
+            <a 
+              href="https://thermal.circuitrylabs.org" 
+              className="text-lg hover:underline inline-block"
+            >
+              → Thermal Scout
+            </a>
+            <p className="text-sm text-gray-600 mt-1">
+              Find AI models by their computational cost
+            </p>
+          </div>
+          
           {/* Simple connection visual */}
           <div className="my-12 text-center text-2xl">
             <span className="inline-block">You</span>
